@@ -1,32 +1,47 @@
-
 # Election Survey for Yearbook
 
 ## Author
 
 - Edwardo Howell
 
-## Overview:
+## Overview
 
-This form allows students to anonymously express their feelings about the upcoming election between Harris and Trump. Your responses will remain confidential to only Yearbook members, and some submission may be randomly selected to feature in the yearbook. The goal is to record the diverse perspectives of Early College High School students while maintaing respect and neutrality.
+This form allows students to share their perspectives on the upcoming election between Kamala Harris and Donald Trump. Responses are anonymous and will be reviewed by Yearbook staff, with some submissions potentially selected to feature in the yearbook. The aim is to capture the diverse views of Early College High School students while ensuring a respectful and neutral environment.
 
-## How to Access the Form 
-To access the form, you will be prompted to a sign in page. Your login will be you student ID number. After signing im, you will be able to fill out the survey and submit your response anonymously. 
+## How to Access the Form
 
-## What You Can Do:
+To access the form, simply click the provided link. You will need to enter your school email to proceed. Any response submitted with a non-school email will be disqualified.
 
-You are free to express your opinions about the election, in line with the First Amendment, as long that your comments remain neutral. Feel free to share your thoughts and feelings without fear, as long as they adhere to the guidelines outlined below.
+## Form Structure
 
-## What You Cannot Do:
+- **Enter your school email**: Required field to verify your school affiliation.
+- **First & Last Name**: Required field for record-keeping (will not be shared publicly).
+- **Grade Level**: Select from 9th, 10th, 11th, or 12th grade.
+- **Who would you vote?**: Choose between Kamala Harris or Donald Trump.
+- **What do you like or dislike about the candidates' plans?**: A text box for expressing your thoughts on each candidate’s plans. Please keep comments respectful and relevant.
 
-Your submission will be reviewed by Yearbook and it cannot contain profanity or violate the limitation of the first amendment.
+## What You Can Do
 
-- Incitement to Imminent Lawless Action
-- efamation
+You are encouraged to freely express your opinions about the election in accordance with the First Amendment, provided your comments are respectful and adhere to the form's guidelines. Feel free to share your thoughts openly, knowing that your submission will remain anonymous.
+
+## What You Cannot Do
+
+All submissions will be reviewed by the Yearbook team and must not contain any of the following:
+
+- Incitement to imminent lawless action
+- Defamation
 - Obscenity
-- False Speech
-- Hate Speech
+- False information
+- Hate speech
 
-Any form violating these rules will be disqualified and ignored for potential random selection to appear on Yearbook Election Spread.
+Any response violating these guidelines will be disqualified and will not be considered for potential publication in the yearbook’s election spread.
 
-## How the Form Works:
-The form as required rating scale (1-5) where you click to how strongly you feel about the election, with 1 being least and 5 for being most estatic. There is also an optinal text box where you can explain why you feel this way.
+## How the Form Works
+
+The form includes the following sections:
+
+- **School Email Verification**: To ensure eligibility, only submissions from valid school emails will be accepted.
+- **Grade Level and Voting Choice**: Select your grade level and indicate your voting preference.
+- **Opinion on Candidates’ Plans**: This open-ended section allows you to express your likes or dislikes about each candidate's proposed plans.
+
+Please note that while responses are anonymous, they must meet all guidelines to be eligible for potential inclusion in the yearbook.

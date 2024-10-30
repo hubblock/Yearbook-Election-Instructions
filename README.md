@@ -17,12 +17,12 @@ To access the form, simply click the provided link. You will need to enter your 
 - **Enter your school email**: Required field to verify your school affiliation.
 - **First & Last Name**: Required field for record-keeping (will not be shared publicly).
 - **Grade Level**: Select from 9th, 10th, 11th, or 12th grade.
-- **Who would you vote?**: Choose between Kamala Harris or Donald Trump.
-- **What are your thoughts on the election's current situation, and why?**: A text box for expressing your thoughts on each candidate’s plans. Please keep comments respectful and relevant.
+- **Who would you vote for?**: Choose between Kamala Harris or Donald Trump.
+- **What are your thoughts on the current election situation, and why?**: A text box for expressing your thoughts on each candidate’s plans. Please keep comments respectful and relevant.
 
 ## What You Can Do
 
-You are encouraged to freely express your opinions about the election in accordance with the First Amendment, provided your comments are respectful and adhere to the form's guidelines. Feel free to share your thoughts openly, knowing that your submission will remain anonymous.
+You are encouraged to freely express your opinions about the election under the First Amendment, provided your comments are respectful and adhere to the form's guidelines. Feel free to share your thoughts openly, knowing that your submission will remain anonymous.
 
 ## What You Cannot Do
 

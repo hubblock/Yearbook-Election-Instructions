@@ -18,7 +18,7 @@ To access the form, simply click the provided link. You will need to enter your 
 - **First & Last Name**: Required field for record-keeping (will not be shared publicly).
 - **Grade Level**: Select from 9th, 10th, 11th, or 12th grade.
 - **Who would you vote?**: Choose between Kamala Harris or Donald Trump.
-- **What do you like or dislike about the candidates' plans?**: A text box for expressing your thoughts on each candidate’s plans. Please keep comments respectful and relevant.
+- **What are your thoughts on the election's existing situation, and why?**: A text box for expressing your thoughts on each candidate’s plans. Please keep comments respectful and relevant.
 
 ## What You Can Do
 
